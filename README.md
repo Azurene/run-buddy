@@ -12,3 +12,5 @@ https://azurene.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Jodee Ann Conui
+
+### ©️2019 Run Buddy, Inc
